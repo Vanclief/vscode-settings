@@ -1,0 +1,32 @@
+{
+    "editor.minimap.enabled": false,
+    "vim.insertModeKeyBindings": [
+        {
+            "before": [
+                "j",
+                "j"
+            ],
+            "after": [
+                "<Esc>"
+            ]
+        }
+    ],
+    "vim.normalModeKeyBindingsNonRecursive": [
+        {
+            "before": [
+                ";"
+            ],
+            "after": [
+                ":"
+            ]
+        }
+    ],
+    "workbench.colorTheme": "Atom One Dark",
+    "editor.formatOnSave": true,
+    "go.formatTool": "goimports",
+    "window.zoomLevel": 0,
+    "editor.fontSize": 13,
+    "editor.find.addExtraSpaceOnTop": false,
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontFamily": "monospace"
+}
